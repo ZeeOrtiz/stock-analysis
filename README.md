@@ -1,11 +1,11 @@
 # VBA Analysis
 VBA M2
 
-##Overview Of Project
+##Overview Of Project##
 The goal of this project is to provide Steve's parents the research for green energy stocks in order for his parents to diversify their stocks. Steve can reuse this code to do research on any other stocks in order to make the best choice when buying stocks.
 He provided a ist of 11 stocks and years 2017 and 2018 worth of data. The data included the ticker name,date, high price, low price and the tickers price at open and close of the day. With all the data housed in those spreadhseet it was important for the system to run it as fast as possible. 
 
-##Results
+##Results##
 My time code didn't run in my initial document so in order for the refactored code to work I had to remove module 1 & 2 from my VBA workbook. I ran across a lot of script errors before the code worked. 
 
 "Sub AllStocksAnalysisRefactored()
@@ -133,10 +133,10 @@ Next i
 
 End Sub
 "
-###Screenshots
+###Screenshots###
 I found that the time ran well and I received the exected results from the challenge module.
 ![VBA_Challenge_2017](https://user-images.githubusercontent.com/108309093/207744438-1f921ec8-b8f8-47c8-8e05-0990eb7523d9.PNG)
 ![VBA_Challenge_2018](https://user-images.githubusercontent.com/108309093/207744455-ce0c7dc9-5847-4606-ad45-79b98a14a427.PNG)
 
-##Summary
+##Summary##
 Refactoring the code cleared up some issues from my initial write up where i couldn'g get the timer to run.
